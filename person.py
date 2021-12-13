@@ -1,0 +1,12 @@
+print ("type your info")
+name = input ("add ur name " )
+adres = input("add ur adres " )
+postcode = input("add ur postcode " )
+woonplaats  = input("add ur woonplaats " )
+
+print ("____________________________________" )
+print("naam: " + name)
+print("adres: "+ adres)
+print("postcode: "+postcode)
+print("woonplaats: "+woonplaats)
+print ("____________________________________")
